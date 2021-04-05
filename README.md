@@ -1,0 +1,1 @@
+# Computation-design-method-for-Statics-Responsive-Grid-Shells
